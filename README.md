@@ -2,5 +2,6 @@
 Atividade Continua 
 
 # Pawel Tomasz Wasilewski
-# Stephen Adam Amell
+# Joseph Morgan
 # Alex O'Lachlan
+# David Giuntoli
